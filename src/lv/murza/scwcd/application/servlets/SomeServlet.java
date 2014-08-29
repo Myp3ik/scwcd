@@ -1,4 +1,4 @@
-package lv.murza.scwcd.servlets.application.servlets;
+package lv.murza.scwcd.application.servlets;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
